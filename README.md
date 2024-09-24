@@ -9,4 +9,4 @@
    <img src = "https://github.com/user-attachments/assets/34343c40-1c08-4a33-90b7-03400b872b36" width = "300"/>
    <img src = "https://github.com/user-attachments/assets/9c812ed7-254e-4945-ad16-ce6424e1e8a4" width = "300"/>
 </p>
-[Screen_recording_20240924_141951.webm](https://github.com/user-attachments/assets/2b20da99-d1f2-465e-846c-82053ea4dfb8)
+https://github.com/user-attachments/assets/2b20da99-d1f2-465e-846c-82053ea4dfb8
